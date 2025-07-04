@@ -44,4 +44,27 @@ Each problem contains my original solution and possibly a revised version that I
 
 <br/>
 
+---
+
+<br/>
+
+## 👍 Connect with the CS50 Community
+
+CS50 community on various platforms:
+
+- [Discord](https://discord.gg/cs50)
+- [Ed](https://cs50.edx.org/ed)
+- [Youtube](http://www.youtube.com/subscription_center?add_user=cs50tv)
+- [TikTok](https://www.tiktok.com/@cs50)
+- [Facebook](https://www.facebook.com/groups/cs50/)
+- [GitHub](https://github.com/cs50)
+- [Instagram](https://www.instagram.com/cs50/)
+- [LinkedIn](https://www.linkedin.com/company/cs50/)
+- [Reddit](https://www.reddit.com/r/cs50/)
+- [Twitter](https://twitter.com/cs50)
+
+---
+
+<br/>
+
 ## 📖 Table of Contents
