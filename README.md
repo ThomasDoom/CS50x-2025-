@@ -47,6 +47,9 @@ Each problem contains my original solution and possibly a revised version that I
 ## 📖 Table of Contents
 
 ---
+### [Week 0](/Week0): [Scratch](https://cs50.harvard.edu/x/2025/psets/0/scratch/)
+* [Starting from Scratch](/Week0/Problem_Set_0/Bouncing_Water)
+
 
 <br/>
 
