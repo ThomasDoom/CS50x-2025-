@@ -44,6 +44,8 @@ Each problem contains my original solution and possibly a revised version that I
 
 <br/>
 
+## 📖 Table of Contents
+
 ---
 
 <br/>
@@ -67,4 +69,4 @@ CS50 community on various platforms:
 
 <br/>
 
-## 📖 Table of Contents
+
